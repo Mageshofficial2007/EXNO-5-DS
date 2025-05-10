@@ -18,6 +18,8 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+DEVELOPED BY: MAGESH BOOPATHI.M
+REGISTER NO: 212224230145
 ![Screenshot 2025-04-20 112015](https://github.com/user-attachments/assets/fd374ad4-7004-49d1-8d1f-ab291ab3cbac)
 ![Screenshot 2025-04-20 112030](https://github.com/user-attachments/assets/d0b92f4f-a428-4589-90c0-eb625f80eefa)
 ![Screenshot 2025-04-20 112052](https://github.com/user-attachments/assets/c71ab01c-e0a9-4edf-9ccf-eb71fb58cb02)
